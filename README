@@ -5,9 +5,12 @@ Don't hesitate to fork and star the project if you like it.
 
 The POM is inherited from another project that I don't remember, but has changed since from.
 
-What you have to do to run this code
+<h3>What you have to do to run this code</h3>
   - Change Application.class to connect your DB
   - Run Application.main() (Spring boot so no servlet container needed)
+
+<h3>How does it work:</h3>
+
 
 More infos about
   CORS: http://zhentao-li.blogspot.fr/2013/06/example-for-enabling-cors-support-in.html
