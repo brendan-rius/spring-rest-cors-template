@@ -30,6 +30,6 @@ The POM is inherited from another project that I don't remember, but has changed
   
   * application.properties defines the properties of the application such as the port used (8080 by default)
 
-More infos about
-  CORS: http://zhentao-li.blogspot.fr/2013/06/example-for-enabling-cors-support-in.html
-  Spring boot: http://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone
+## More infos
+  * CORS: http://zhentao-li.blogspot.fr/2013/06/example-for-enabling-cors-support-in.html
+  * Spring boot: http://spring.io/blog/2013/08/06/spring-boot-simplifying-spring-for-everyone
